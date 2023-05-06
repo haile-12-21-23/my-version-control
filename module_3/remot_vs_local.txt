@@ -1,0 +1,8 @@
+Remote refers to any other remote repository to which developers can push changes. 
+This can be a centralized repository, such as one provided by Git hub or repositories on other developer devices.
+The remote code is accessed through a URI which is unique and only accessible to those who have permission local. 
+On the other hand refers to your machine which can be a laptop, desktop or even a mobile device and is only accessible to you to demonstrate both of these in action.
+
+One of the advantages of it is that you can work offline and then commit your changes when you are ready.
+To add remote repository from local
+When you use Git Push, Git compares a snapshot of your local repository with the remote one and only replaces the files that have been changed.  
