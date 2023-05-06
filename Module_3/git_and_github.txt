@@ -1,0 +1,21 @@
+Git is a version control system designed to help users keep track of changes to files within their projects. 
+Git was designed to fix the problem that it's created, Linus Torvalds was having with managing the huge challenge of keeping track of all changes to the kernel, the operating system for Linux. 
+Linux has thousands of contributors who commit changes and updates daily. 
+Git was designed to help with the challenge of tracking all these changes and updates. 
+
+Advantages of Git
+1.better speed and performance,
+2.Reliable
+3free and open source axis
+4.Accessible syntax
+5.It's also important to note that Git is used predominantly via the command line. 
+6.Developers tend to find Git syntax and commands easy to learn.
+
+GitHub
+GitHub is a Cloud-based hosting service that lets you manage Git repositories from a user interface. 
+A Git repository is used to track all changes to files in a specific folder, and keep a history of all those changes.
+
+Some feature of GitHub
+1.Access control
+2. Pull request
+3. Automation

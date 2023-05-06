@@ -1,0 +1,22 @@
+Types of control version
+A. Subversion
+B. Perforce
+C. AWS Code commit
+D. Mercurial
+E. Git
+
+There are two types of system of version controls.
+A. Centralized version control (CVS) server repository contain all code change history
+pull and push from and to server
+A Centralized Version Control system (CVS) contains a server and a client.
+Advantages of CVS
+1. Easy to learn 
+2. Give more access to users
+Disadvantages of CVS
+1. Slower
+B. Distributed version system (DVS)  similar to CVS but
+The key difference is that every user is essentially a server and not a client.
+This means that every time you pull down code from the distributed model, you have the entire history of changes on your local system.
+Advantages DVS
+1.allowing to work offline state
+2. Speed and Performance is better

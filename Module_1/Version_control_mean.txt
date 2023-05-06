@@ -1,0 +1,15 @@
+Version control is a system that records all changes and modifications to file for tracking purpose.
+The primary gaols of version control is keeping tracks of changes allowing provide access to history and revert and roll back.
+Different types of changes. These are
+ A. add new file
+ B. Modify/update existing files
+ C. Delete file
+
+ Advantages of version controls
+A. Revision history: when and who made changes.
+B. Identity: who made changes
+C. Collaboration: peer review
+D. Automation
+E. Efficiency
+
+Version control used not only track changes but also Ais software quality, release and deployment 

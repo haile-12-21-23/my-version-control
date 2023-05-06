@@ -1,0 +1,6 @@
+This helps to identify
+ who made changes,
+ when did it happen
+what was the reason
+What was the changes
+The history of revisions will give the team the ability to manage and merge these changes and deliver the business objectives in a timely manner.

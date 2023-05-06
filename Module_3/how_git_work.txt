@@ -1,0 +1,16 @@
+Git workflow are three these are modified, staged and committed.
+
+1. Modified
+adding, removing and updating any file inside the repository is considered a modified state.
+
+2. Staged
+ Git knows the file has changed, but does not track it. This is where the staging state comes in. Let's turn to it now. In order for Git to track a file, it needs to be put in the staged area.
+ Once added, any modifications are tracked. Which offers a security blanket prior to committing the changes.
+
+ 3.Committed
+ Committing a file in Git is like a save point in many ways. Git will save the file, and have a snapshot of the current changes.
+ 
+
+ Working directory(Modified) -> git add => Staging area-> git commit=> Committed files -> git push => Remote repository
+
+ Git addGit command that marks a file to be included as part of code commit

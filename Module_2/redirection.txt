@@ -1,0 +1,25 @@
+There are 3 types of redirection. These are:Standard output,Standard input and Standard error
+
+Standard input typing information from the keyboard.
+< or less than sign for user input
+input is represented bt 0
+
+Storing input
+cat >input.txt 
+write here the content you want add.
+
+Standard output
+Handled with > or grater than sign
+ls -l > output.txt
+output is represented by 1
+
+
+Standard error
+Handled 2> for Standard error
+error  is represented by 2
+ls -l /bin/usr 2>error.txt 
+
+2>&1 to print Standard error and Standard output
+ls -l /bin/usr >error_output.txt 2>&1
+
+<input.txt>output.txt 2> error.txt

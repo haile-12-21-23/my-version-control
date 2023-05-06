@@ -1,0 +1,21 @@
+Before I delve into some of the most common commands, it's important to note that each command has a set of helper instructions. 
+These helpers give detailed information about how the commands can be run and how something we call flags can be passed. 
+One of these helpers is the man command. 
+Man is short for manual, and when called against a command, it will display a detailed manual of instructions for that given command.
+
+
+man command(manual)
+man ls => show the detail manual of list command
+ls => used to show the content of current working directories
+ls command can accept different flags 
+example
+ls -l => list the files that in write and read order.
+ls -a list files in the  directories including the hidden files.
+
+
+pwd(Print working directories)
+pwd shows the full path of the current directories
+
+cp(copy) copying files from one destination to an other destination
+
+mv(move) command moves file from one directories to an other directories
