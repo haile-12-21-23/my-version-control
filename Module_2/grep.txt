@@ -1,0 +1,10 @@
+Grep stands for Global regular expression print and used for searching file and folders across
+Standard search
+grep Sam names.txt => returns all names start with sam.
+Grep is case sensitive
+grep -i Sam names.txt to remove case sensitive and also returns all matches to sam
+
+grep -w Sam  names.txt => exact matches 
+
+
+ls /bin | grep zip => returns zip file from bin directories

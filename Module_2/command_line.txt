@@ -1,0 +1,43 @@
+Interact is the process of exchanging of information or send receive information.
+Command line is very powerful,various tasks, quicker and less errors.
+
+creating directories
+creating files
+combining directories
+copying and moving files
+performing advanced searches
+
+By using advanced command lines
+Track softwares
+Access remote servers
+searches profiles
+Unzip files
+Access manuals
+Install and uninstall softwares
+Check disks space or mount or unmount disks
+
+Pretty advanced stuff of Command line
+Write script to  automate
+Control access file and programs
+Stop or restart programs
+Create aliases
+Download file from internet
+Run softwares
+Containerization is run and control self-contained virtual software.
+
+
+Some commands in UNIX
+
+1. Change directories(CD)
+cd ~/Desktop => to Desktop
+cd ..      => back to parent directories
+
+2. touch command to create files
+touch example.txt => created text file  called example.
+touch example.docx =>create the document file called example.
+
+3. Make folder or directories(mkdir)
+mkdir example => create a folder called example
+
+4. history command
+to list recent file

@@ -1,0 +1,7 @@
+Pipes is a coding tool that allows the first output of one commands to be used as the input for a different commands.
+the symbols for pipe command is |
+ls | wc -w =>used to count how many files in the current pwd
+
+cat file1.txt | wc -w => used to count the numbers of words in file1.txt
+
+cat file1.txt file2.txt | wc -w => used to count the numbers of words in file1.txt and file2.txt in sum
