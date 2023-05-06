@@ -5,4 +5,3 @@ On the other hand refers to your machine which can be a laptop, desktop or even 
 
 One of the advantages of it is that you can work offline and then commit your changes when you are ready.
 To add remote repository from local
-When you use Git Push, Git compares a snapshot of your local repository with the remote one and only replaces the files that have been changed.  
