@@ -1,0 +1,3 @@
+Git diff  used to compare changes across your files branches and commits.
+ Git status => Which files were changed
+ Git diff => What changes were made.
