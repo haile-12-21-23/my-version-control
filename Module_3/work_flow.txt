@@ -1,0 +1,4 @@
+As a developer working on a project, you first need to pull the project down from a remote repository to your local machine. 
+This is commonly called checking out a project or pulling a project. 
+Once on your local machine, you can build and run the project and make changes. 
+When you're done, you have to push the changes you made back to the remote repository so other developers can see them.
