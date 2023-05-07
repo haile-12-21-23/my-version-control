@@ -1,3 +1,11 @@
 Git diff  used to compare changes across your files branches and commits.
  Git status => Which files were changed
  Git diff => What changes were made.
+
+ To compare the difference
+ 1. git diff head file name
+2. gif diff commitId1 commitId2 
+
+You have returned to development of your hotel booking app after some time away, and want to see the last changes you made. 
+At which levels can you compare the differences between versions using Git diff? 
+ Individual files, branches, and commits can all be compared with Git diff.    
