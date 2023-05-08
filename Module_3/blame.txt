@@ -1,0 +1,25 @@
+ git has a very helpful command for keeping track of who did what and when. 
+ It's called git blame.
+  One of the core functions of git is its ability to track and record the full history of changes for every file in the repository.
+
+  Git blame command
+  git blame file name=> to see all changes with short hash Id
+  git blame -l 5,15 file name => returns changes from line 5 to line 15 with the specified file.
+  git blame -l file name => returns changes with full hash Id not short form.
+  git blame -p commitID => returns the actual content changes
+
+
+  git blame returns
+   Commit ID/hash
+   developer/Author
+   Date
+   Time
+   Line number
+   Actual change or content
+
+   You are a team leader at a software development company. You run the git blame command to see the changes on all the files for the week. What is the order in which the change information will display in each line? 
+
+The order in which the change information will display in each line as follows: < ID><Author><Date><Time><Line number><Content>     
+
+
+Forking allows you to contribute to another person or organisation’s repository by creating your own copy of the repository.
